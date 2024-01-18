@@ -12,8 +12,6 @@ Netherite Horse Armor is a free and open-source mod for Minecraft, created by me
 
 The latest release of Netherite Horse Armor is available on my [Modrinth page](https://modrinth.com/mod/netherite-horse-armor). This version is suitable for general use, though some minor bugs may still exist.
 
-For installation guidance and information about compatibility with other mods, refer to the guide on [Modrinth](https://modrinth.com/mod/netherite-horse-armor#installation).
-
 ### 🐛 Reporting Issues
 
 If you encounter any bugs or have feature suggestions, please report them on the [Modrinth issue section](https://modrinth.com/mod/netherite-horse-armor). Ensure that your issue has not already been reported before submitting. Detailed reports help in addressing issues more effectively.
