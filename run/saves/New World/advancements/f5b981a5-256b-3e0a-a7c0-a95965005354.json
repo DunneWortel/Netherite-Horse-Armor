@@ -1,0 +1,22 @@
+{
+  "netheritehorsearmor:netherite_horse_armor_created": {
+    "criteria": {
+      "netherite_horse_armor_created": "2024-01-17 13:10:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-17 13:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-01-17 13:10:13 +0100",
+      "minecraft:plains": "2024-01-17 13:10:27 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}

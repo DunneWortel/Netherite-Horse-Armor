@@ -1,0 +1,59 @@
+{
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "netheritehorsearmor:netherite_horse_armor_created": {
+    "criteria": {
+      "netherite_horse_armor_created": "2024-01-17 13:23:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-17 13:23:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2024-01-17 13:27:50 +0100",
+      "minecraft:savanna": "2024-01-17 13:28:45 +0100",
+      "minecraft:plains": "2024-01-17 13:23:24 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-01-17 13:26:15 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}

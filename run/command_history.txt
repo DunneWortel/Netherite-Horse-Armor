@@ -1,0 +1,14 @@
+/advancement revoke Player603 everything
+/summon horse ~ ~ ~ {NoAI:1b,ArmorItem:{}}
+/give Player993 minecraft:saddle
+/summon horse ~ ~ ~ {Glowing:1b,NoAI:1b,ArmorItem:{}}
+/kill @e[type=horse
+/kill @e[type=horse]
+/summon horse ~ ~ ~ {NoAI:1b,ArmorItem:{id:"minecraft:diamond_horse_armor",Count:1b}}
+/kill @e[type=horse]
+/summon horse ~ ~ ~ {NoAI:1b,ArmorItem:{id:"netheritehorsearmor:netherite_horse_armor",Count:1b}}
+/tp ef5912a5-c021-4065-ba02-8e4487ef4ac8 ~ ~ ~ -90 0
+/time set night
+/setblock -35 88 -391 minecraft:lantern
+/setblock -35 88 -391 minecraft:lantern[hanging=true]
+/setblock -30 87 -395 minecraft:lantern[hanging=true]

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "netheritehorsearmor",
+  "version": "${version}",
+  "name": "Netherite Horse Armor",
+  "description": "Adds Netherite Horse Armor into the game!",
+  "authors": [
+    "DunneWortel"
+  ],
+  "contributors": [],
+  "contact": {
+    "homepage": "https://modrinth.com/project/netherite-horse-armor",
+    "sources": "https://github.com/DunneWortel/Netherite-Horse-Armor",
+    "issues": "https://github.com/DunneWortel/Netherite-Horse-Armor/issues"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.dunnewortel.netheritehorsearmor.NetheriteHorseArmor"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "1.20.4"
+  }
+}
